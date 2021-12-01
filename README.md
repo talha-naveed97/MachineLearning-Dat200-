@@ -1,7 +1,7 @@
 # MachineLearning-Dat200-
 Dat200 Applied Machine Learning Course Assignments at NMBU
 
-
+# Assignment 1
 ### Background
 
 In this assignment you will be analysing a dataset containing information about video-game sales from the 1980 to 2010.
