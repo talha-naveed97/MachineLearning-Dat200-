@@ -1,11 +1,12 @@
-#Background
+# Background
+
 You are a data scientist employed by the the Institute of Alien Diseases (IAD) to aid them in predicting a special heart condition in a life-form from a distant planet that arrived on Earth recently. Other researchers with IAD have collected information on a number of alien specimens, some of which are diagnosed with the heart condition, while others are healthy.
 
  
 
  
 
-#Kaggle competition
+# Kaggle competition
 You will participate in an In-Class Kaggle competition (only students enrolled in DAT200 course are allowed to participate), where you will compete with other fellow students on how well your model predicts the test data.
 
  
@@ -31,7 +32,7 @@ sample submission
 
  
 
-#Rules and context of the competition
+# Rules and context of the competition
 Please find the suggested workflow in file ‘Workflow - CA3 - DAT200 - 2021.pdf (Links to an external site.)’. Use the workflow as a guide for how to train your classifiers, make predictions and upload the predictions to Kaggle. You'll find it in our DAT200 repository in folder CA3.
 
 You learned only a handful of classifiers in DAT200 so far. Therefore, you have only these available for prediction. You can use the following classifiers implemented in scikit-learn:
@@ -54,7 +55,7 @@ You may collaborate with other students on the compulsory assignment, but you ne
 
  
 
-#Deliverables / submissions
+# Deliverables / submissions
 To have the compulsory assignment approved you need to deliver the following:
 
 Your name must appear on the leaderboard of our own Kaggle competition, which means that you must submit at least one prediction (link to leaderboard: https://www.kaggle.com/c/dat200-ca3-2021/leaderboard (Links to an external site.))
